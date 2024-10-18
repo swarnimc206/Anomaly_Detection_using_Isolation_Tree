@@ -91,11 +91,16 @@ Efficient-Data-Stream-Anomaly-Detection/
 
 
 
-├── app.py                   
-├── data_stream_generation.py 
+├── app.py    
+
+├── data_stream_generation.py
+
 ├── anomaly_detection_process.py 
+
 ├── visualization_module.py  
-├── requirements.txt         
+
+├── requirements.txt 
+
 └── README.md                
 
 
