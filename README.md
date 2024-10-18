@@ -83,17 +83,20 @@ Clear Structure: Organized sections with consistent formatting for easy navigati
 
 
 ## Code Structure
-
+ # Project documentation
+  # Required packages  # Module for data visualization # Module for anomaly detection logic # Module for data stream generation # Main Streamlit application
 
 Efficient-Data-Stream-Anomaly-Detection/
-│
+
+
+
+
 ├── app.py                   
 ├── data_stream_generation.py 
 ├── anomaly_detection_process.py 
 ├── visualization_module.py  
-├── requirements.txt          # Required packages 
-└── README.md                 # Project documentation
-
+├── requirements.txt         
+└── README.md                
 
 
 
