@@ -87,11 +87,11 @@ Clear Structure: Organized sections with consistent formatting for easy navigati
 
 Efficient-Data-Stream-Anomaly-Detection/
 │
-├── app.py                   # Main Streamlit application
-├── data_stream_generation.py # Module for data stream generation
-├── anomaly_detection_process.py # Module for anomaly detection logic
-├── visualization_module.py   # Module for data visualization
-├── requirements.txt          # Required packages
+├── app.py                   
+├── data_stream_generation.py 
+├── anomaly_detection_process.py 
+├── visualization_module.py  
+├── requirements.txt          # Required packages 
 └── README.md                 # Project documentation
 
 
